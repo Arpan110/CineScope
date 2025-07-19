@@ -4,7 +4,7 @@ The app features a clean and intuitive UI that showcases movies in a grid layout
 
 Users can add movies to a personalized watchlist, which is stored using either browser storage or Firebase Auth for a full-stack experience. The UI is fully responsive, ensuring smooth performance on mobile, tablet, and desktop devices. Features like infinite scroll, dark mode, loading skeletons, and debounced search enhance usability and performance.
 
-Key Features:
+Key Features: -
 
 Browse trending, popular, and upcoming movies
 
@@ -22,7 +22,7 @@ Dark/light mode toggle
 
 Optional authentication with Firebase
 
-Tech Stack:
+Tech Stack: -
 
 Frontend: React.js or Next.js
 
