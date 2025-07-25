@@ -32,6 +32,6 @@ API: TMDB
 
 Auth/Storage: Firebase or LocalStorage
 
-Deployment: Vercel or Netlify
+Deployment: Netlify
 
 CineScope is ideal for showcasing skills in API integration, component-based architecture, and real-world frontend development. It’s a perfect portfolio project for any web developer passionate about film, UI/UX design, or modern web technologies.
